@@ -82,3 +82,30 @@ main .main-input input{
     border: none;
     outline: none;
 }
+
+main .main-input-container:hover{
+    box-shadow: 0 1px 6px 0 #20212447;
+}
+
+main .main-input .search-icon{
+    background-image: url('https://cdn.worldvectorlogo.com/logos/google-custom-search.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 18px;
+    height: 18px;
+
+}
+
+main .main-input .micro-icon{
+
+    background-image: url('https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/052018/untitled-1_63.png?GqQJ574bCONHNy8dzelLNJgZ7etJGqLO&itok=cmYnTgwx');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 18px;
+    height: 18px;
+    cursor: pointer
+
+}
+
